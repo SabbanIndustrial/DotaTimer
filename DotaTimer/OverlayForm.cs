@@ -19,7 +19,7 @@ namespace DotaTimer
         [DllImport("user32.dll")]
         static extern int SetWindowLong(IntPtr hWnd, int nIndex, UInt32 dwNewLong);
 
-        Brush dotaColor = (Brush)new SolidBrush(Color.FromArgb(160, 170, 180));
+        Brush dotaColor = (Brush)new SolidBrush(Color.FromArgb(0, 0, 0));
         Font dotaFont = new Font("Bahnschrift", 10.5F, FontStyle.Regular);
         public OverlayForm()
         {

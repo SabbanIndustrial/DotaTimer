@@ -5,7 +5,7 @@ Dont recommend to use it, VAC may ban you.
 
 NUMPAD controls with low level keyboard hook.
 
-[Download](/DotaTimer.exe)
+[Download](https://github.com/SabbanIndustrial/DotaTimer/raw/master/DotaTimer.exe)
 
 ![Alt text](/overlay.jpg?raw=true "overlay")
 
